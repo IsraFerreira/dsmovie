@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 
 :root {
   --color-primary: #388697;
@@ -8,7 +8,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: 'Mukta', 'Open Sans', sans-serif;
+    font-family: 'Oswald', 'Open Sans', sans-serif;
 }
 
 html, body {
